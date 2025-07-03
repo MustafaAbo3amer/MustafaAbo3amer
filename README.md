@@ -7,7 +7,7 @@
 <hr></hr>
 
 <h1 align="center">Hi 👋, I'm Mustafa Ibrahim Abu Amer</h1>
-<h3 align="center">Final-year Navigation Science and Space Technology student | AI & Embedded Systems Enthusiast</h3>
+<h3 align="center">Final-year Navigation Science and Space Technology student | Focused on AI & Embedded Systems</h3>
 
 ---
 
